@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 .container {
   background: linear-gradient(to right bottom, #e1b382, #c89666);
@@ -18,7 +17,7 @@
   min-height: 650px;
   padding: 30px;
   box-sizing: border-box;
-  border-radius: border-box;
+  border-radius: 10px;
   box-shadow: 3px 6px 40px #000;
   margin-bottom: 10px;
 }
